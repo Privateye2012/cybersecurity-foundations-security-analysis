@@ -39,4 +39,3 @@ Original answers and reports are written in Portuguese, as the course was taught
 
 ---
 
-## Repository Structure
